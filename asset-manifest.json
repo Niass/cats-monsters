@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https//Niass.github.io/cats-monsters/static/css/main.16290f68.chunk.css",
+    "main.js": "https//Niass.github.io/cats-monsters/static/js/main.fb9470a8.chunk.js",
+    "main.js.map": "https//Niass.github.io/cats-monsters/static/js/main.fb9470a8.chunk.js.map",
+    "runtime-main.js": "https//Niass.github.io/cats-monsters/static/js/runtime-main.5198a7f8.js",
+    "runtime-main.js.map": "https//Niass.github.io/cats-monsters/static/js/runtime-main.5198a7f8.js.map",
+    "static/js/2.e0f5d2bd.chunk.js": "https//Niass.github.io/cats-monsters/static/js/2.e0f5d2bd.chunk.js",
+    "static/js/2.e0f5d2bd.chunk.js.map": "https//Niass.github.io/cats-monsters/static/js/2.e0f5d2bd.chunk.js.map",
+    "index.html": "https//Niass.github.io/cats-monsters/index.html",
+    "precache-manifest.eb579285dbfa1553d909a9eb3c905824.js": "https//Niass.github.io/cats-monsters/precache-manifest.eb579285dbfa1553d909a9eb3c905824.js",
+    "service-worker.js": "https//Niass.github.io/cats-monsters/service-worker.js",
+    "static/css/main.16290f68.chunk.css.map": "https//Niass.github.io/cats-monsters/static/css/main.16290f68.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5198a7f8.js",
+    "static/js/2.e0f5d2bd.chunk.js",
+    "static/css/main.16290f68.chunk.css",
+    "static/js/main.fb9470a8.chunk.js"
+  ]
+}
